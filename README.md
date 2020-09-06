@@ -2,14 +2,14 @@
 Open source C++ Data Structures implementation. 
 -----------
 ### Supported Data Structures
-- [x] Doubly Linked List <<To commit>>
-- [x] Heaps (max and min) <<To commit>>
+- [x] Doubly Linked List
+- [x] Heaps (max and min)
 - [ ] Vector
 - [ ] String
-- [x] Binary Search Tree <<To commit>>
+- [x] Binary Search Tree
 -----------
 ### Authors
 Just me, @LorenzoCirillo 
 -----------
 ### Wiki
-<<Upcoming>>
+Wiki still has to be written, but it's coming soon!
