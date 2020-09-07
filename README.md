@@ -15,4 +15,4 @@ Just me, @LorenzoCirillo
 
 -----------
 ### Wiki
-Wiki still has to be written, but it's coming soon!
+[Wiki now available here!] (https://github.com/LorenzoCirillo/DataStructures/wiki)
